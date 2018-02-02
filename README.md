@@ -4,7 +4,7 @@ Sentiment-Analysis-on-Twitter-data
 ## Usage
 
 ### 1. Download Dataset
-Download dataset from here(https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences), and add all .txt file to dataset directory.
+Download dataset from here(https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences), and add all `.txt` file to dataset directory.
 
 ### 2. build docker image from Dockerfile
 
