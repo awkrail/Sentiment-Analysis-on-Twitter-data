@@ -2,8 +2,6 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
 from sklearn.model_selection import train_test_split
-
-import xgboost
 from sklearn.naive_bayes import GaussianNB
 
 def main():
